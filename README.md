@@ -1,6 +1,6 @@
-# todoey_flutter
+# Flutter_Todo_App
 
-A new Flutter project.
+A todo app in flutter using state managment
 
 ## Getting Started
 
